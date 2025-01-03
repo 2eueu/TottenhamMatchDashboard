@@ -1,0 +1,115 @@
+Season,Date,Opponent,Location,TottenhamGoals,OpponentGoals,Result
+2022,2022-08-06,Southampton FC,Home,4,1,Win
+2022,2022-08-14,Chelsea FC,Away,2,2,Draw
+2022,2022-08-20,Wolverhampton Wanderers FC,Home,1,0,Win
+2022,2022-08-28,Nottingham Forest FC,Away,2,0,Win
+2022,2022-08-31,West Ham United FC,Away,1,1,Draw
+2022,2022-09-03,Fulham FC,Home,2,1,Win
+2022,2022-09-17,Leicester City FC,Home,6,2,Win
+2022,2022-10-01,Arsenal FC,Away,1,3,Loss
+2022,2022-10-08,Brighton & Hove Albion FC,Away,1,0,Win
+2022,2022-10-15,Everton FC,Home,2,0,Win
+2022,2022-10-19,Manchester United FC,Away,0,2,Loss
+2022,2022-10-23,Newcastle United FC,Home,1,2,Loss
+2022,2022-10-29,AFC Bournemouth,Away,3,2,Win
+2022,2022-11-06,Liverpool FC,Home,1,2,Loss
+2022,2022-11-12,Leeds United FC,Home,4,3,Win
+2022,2022-12-26,Brentford FC,Away,2,2,Draw
+2022,2023-01-01,Aston Villa FC,Home,0,2,Loss
+2022,2023-01-04,Crystal Palace FC,Away,4,0,Win
+2022,2023-01-15,Arsenal FC,Home,0,2,Loss
+2022,2023-01-19,Manchester City FC,Away,2,4,Loss
+2022,2023-01-23,Fulham FC,Away,1,0,Win
+2022,2023-02-05,Manchester City FC,Home,1,0,Win
+2022,2023-02-11,Leicester City FC,Away,1,4,Loss
+2022,2023-02-19,West Ham United FC,Home,2,0,Win
+2022,2023-02-26,Chelsea FC,Home,2,0,Win
+2022,2023-03-04,Wolverhampton Wanderers FC,Away,0,1,Loss
+2022,2023-03-11,Nottingham Forest FC,Home,3,1,Win
+2022,2023-03-18,Southampton FC,Away,3,3,Draw
+2022,2023-04-03,Everton FC,Away,1,1,Draw
+2022,2023-04-08,Brighton & Hove Albion FC,Home,2,1,Win
+2022,2023-04-15,AFC Bournemouth,Home,2,3,Loss
+2022,2023-04-23,Newcastle United FC,Away,1,6,Loss
+2022,2023-04-27,Manchester United FC,Home,2,2,Draw
+2022,2023-04-30,Liverpool FC,Away,3,4,Loss
+2022,2023-05-06,Crystal Palace FC,Home,1,0,Win
+2022,2023-05-13,Aston Villa FC,Away,1,2,Loss
+2022,2023-05-20,Brentford FC,Home,1,3,Loss
+2022,2023-05-28,Leeds United FC,Away,4,1,Win
+2023,2023-08-13,Brentford FC,Away,2,2,Draw
+2023,2023-08-19,Manchester United FC,Home,2,0,Win
+2023,2023-08-26,AFC Bournemouth,Away,2,0,Win
+2023,2023-09-02,Burnley FC,Away,5,2,Win
+2023,2023-09-16,Sheffield United FC,Home,2,1,Win
+2023,2023-09-24,Arsenal FC,Away,2,2,Draw
+2023,2023-09-30,Liverpool FC,Home,2,1,Win
+2023,2023-10-07,Luton Town FC,Away,1,0,Win
+2023,2023-10-23,Fulham FC,Home,2,0,Win
+2023,2023-10-27,Crystal Palace FC,Away,2,1,Win
+2023,2023-11-06,Chelsea FC,Home,1,4,Loss
+2023,2023-11-11,Wolverhampton Wanderers FC,Away,1,2,Loss
+2023,2023-11-26,Aston Villa FC,Home,1,2,Loss
+2023,2023-12-03,Manchester City FC,Away,3,3,Draw
+2023,2023-12-07,West Ham United FC,Home,1,2,Loss
+2023,2023-12-10,Newcastle United FC,Home,4,1,Win
+2023,2023-12-15,Nottingham Forest FC,Away,2,0,Win
+2023,2023-12-23,Everton FC,Home,2,1,Win
+2023,2023-12-28,Brighton & Hove Albion FC,Away,2,4,Loss
+2023,2023-12-31,AFC Bournemouth,Home,3,1,Win
+2023,2024-01-14,Manchester United FC,Away,2,2,Draw
+2023,2024-01-31,Brentford FC,Home,3,2,Win
+2023,2024-02-03,Everton FC,Away,2,2,Draw
+2023,2024-02-10,Brighton & Hove Albion FC,Home,2,1,Win
+2023,2024-02-17,Wolverhampton Wanderers FC,Home,1,2,Loss
+2023,2024-03-02,Crystal Palace FC,Home,3,1,Win
+2023,2024-03-10,Aston Villa FC,Away,4,0,Win
+2023,2024-03-16,Fulham FC,Away,0,3,Loss
+2023,2024-03-30,Luton Town FC,Home,2,1,Win
+2023,2024-04-02,West Ham United FC,Away,1,1,Draw
+2023,2024-04-07,Nottingham Forest FC,Home,3,1,Win
+2023,2024-04-13,Newcastle United FC,Away,0,4,Loss
+2023,2024-04-28,Arsenal FC,Home,2,3,Loss
+2023,2024-05-02,Chelsea FC,Away,0,2,Loss
+2023,2024-05-05,Liverpool FC,Away,2,4,Loss
+2023,2024-05-11,Burnley FC,Home,2,1,Win
+2023,2024-05-14,Manchester City FC,Home,0,2,Loss
+2023,2024-05-19,Sheffield United FC,Away,3,0,Win
+2024,2024-08-19,Leicester City FC,Away,1,1,Draw
+2024,2024-08-24,Everton FC,Home,4,0,Win
+2024,2024-09-01,Newcastle United FC,Away,1,2,Loss
+2024,2024-09-15,Arsenal FC,Home,0,1,Loss
+2024,2024-09-21,Brentford FC,Home,3,1,Win
+2024,2024-09-29,Manchester United FC,Away,3,0,Win
+2024,2024-10-06,Brighton & Hove Albion FC,Away,2,3,Loss
+2024,2024-10-19,West Ham United FC,Home,4,1,Win
+2024,2024-10-27,Crystal Palace FC,Away,0,1,Loss
+2024,2024-11-03,Aston Villa FC,Home,4,1,Win
+2024,2024-11-10,Ipswich Town FC,Home,1,2,Loss
+2024,2024-11-23,Manchester City FC,Away,0,0,Unknown
+2024,2024-12-01,Fulham FC,Home,0,0,Unknown
+2024,2024-12-05,AFC Bournemouth,Away,0,0,Unknown
+2024,2024-12-08,Chelsea FC,Home,0,0,Unknown
+2024,2024-12-15,Southampton FC,Away,0,0,Unknown
+2024,2024-12-22,Liverpool FC,Home,0,0,Unknown
+2024,2024-12-26,Nottingham Forest FC,Away,0,0,Unknown
+2024,2024-12-29,Wolverhampton Wanderers FC,Home,0,0,Unknown
+2024,2025-01-04,Newcastle United FC,Home,0,0,Unknown
+2024,2025-01-15,Arsenal FC,Away,0,0,Unknown
+2024,2025-01-19,Everton FC,Away,0,0,Unknown
+2024,2025-01-26,Leicester City FC,Home,0,0,Unknown
+2024,2025-02-01,Brentford FC,Away,0,0,Unknown
+2024,2025-02-15,Manchester United FC,Home,0,0,Unknown
+2024,2025-02-22,Ipswich Town FC,Away,0,0,Unknown
+2024,2025-02-25,Manchester City FC,Home,0,0,Unknown
+2024,2025-03-08,AFC Bournemouth,Home,0,0,Unknown
+2024,2025-03-15,Fulham FC,Away,0,0,Unknown
+2024,2025-04-02,Chelsea FC,Away,0,0,Unknown
+2024,2025-04-05,Southampton FC,Home,0,0,Unknown
+2024,2025-04-12,Wolverhampton Wanderers FC,Away,0,0,Unknown
+2024,2025-04-19,Nottingham Forest FC,Home,0,0,Unknown
+2024,2025-04-26,Liverpool FC,Away,0,0,Unknown
+2024,2025-05-03,West Ham United FC,Away,0,0,Unknown
+2024,2025-05-10,Crystal Palace FC,Home,0,0,Unknown
+2024,2025-05-18,Aston Villa FC,Away,0,0,Unknown
+2024,2025-05-25,Brighton & Hove Albion FC,Home,0,0,Unknown
