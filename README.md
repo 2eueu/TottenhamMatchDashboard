@@ -1,61 +1,103 @@
-# TottenhamMatchDashboard ⚽
+# ⚽ TottenhamMatchDashboard
 
 **A web application for analyzing and visualizing Tottenham Hotspur's match statistics using interactive dashboards.**
 
 ---
 
-## 🏆 **프로젝트 개요**
-TottenhamMatchDashboard는 토트넘 홋스퍼의 경기 통계를 분석하고 시각화하기 위한 웹 애플리케이션입니다.  
-Football-Data.org API 및 인터랙티브 대시보드를 활용하여 경기 데이터를 실시간으로 확인할 수 있습니다.
+## 🏆 Project Overview
+
+TottenhamMatchDashboard is an interactive web dashboard that visualizes Tottenham Hotspur's match performance, league standings, and team statistics.  
+It connects to a MySQL database to manage structured football data, and fetches real-time updates using the [Football-Data.org](https://www.football-data.org/) API.
 
 ---
 
-## **🛠️ 사용 기술 스택**
+## 🛠️ Tech Stack
 
-### **언어**
+### Languages  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### **라이브러리 및 도구**
-- **Chart.js**: 시각적 차트 구현
-- **Fetch API**: 데이터 통신
-- **Bootstrap**: 스타일링 및 UI 구성
-- **Node.js / Express**: 서버 구축 및 API 연동
+### Backend & Database  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### **API**
-- [Football-Data.org](https://www.football-data.org/): 실시간 축구 경기 데이터 제공
+### Libraries & Tools  
+- `Chart.js`: Data visualization  
+- `Fetch API`: Client-server communication  
+- `Bootstrap`: UI layout & responsive design
 
----
-
-## 🔍 **주요 기능**
-
-1. **경기 일정 및 결과 시각화**
-   - 토트넘의 경기 일정과 결과 데이터를 대시보드 형태로 제공
-   - 날짜별 경기 결과와 주요 이벤트를 시각적으로 표시
-
-2. **팀 통계 분석**
-   - 점유율, 득점, 슈팅 등 주요 경기 데이터를 분석하여 시각화
-   - 상대 팀별 주요 통계 비교
-
-3. **리그 순위 확인**
-   - 프리미어리그 순위를 실시간으로 업데이트하여 제공
-   - 강등권 팀을 강조하여 표시
-
-4. **인터랙티브 대시보드**
-   - 사용자가 필터를 통해 날짜, 팀, 특정 통계를 선택하여 맞춤형 데이터를 조회 가능
+### API  
+- [Football-Data.org](https://www.football-data.org/): Real-time football match data
 
 ---
 
-## 📊 **데이터 시각화**
-1. **경기 결과 차트**
-   - Chart.js를 활용하여 득점 및 주요 이벤트를 막대그래프로 시각화.
+## 🔍 Key Features
 
-2. **리그 순위**
-   - 강등권 팀은 빨간색으로 강조하여 한눈에 확인 가능.
+### 1. Match Schedule & Results
+- Displays match timeline and results for Tottenham Hotspur
+- Visualizes key match events using bar charts
 
-3. **팀별 통계 비교**
-   - 상대 팀별 점유율 및 득점 데이터를 라인 차트로 시각화.
+### 2. Team Statistics
+- Compares stats like possession rate, shots, and goals per opponent
+- Line charts for side-by-side comparison
+
+### 3. League Standings
+- Premier League table with live updates
+- Highlights relegation zone teams in red
+
+### 4. Interactive Dashboard
+- Filters by date, stat type, and opponent
 
 ---
 
+## 🧩 Architecture Overview
+
+### 🔧 MySQL Integration
+- Backend communicates with MySQL to store match data  
+- Tables: `matches`, `teams`, `stats`, `events`
+
+### 🔁 System Flow  
+<p align="center">
+  <img src="./assets/protocol.png" alt="System Protocol" width="600"/>
+</p>
+
+---
+
+## 🖼️ Screenshots
+
+### 🔷 Main Dashboard Page
+<p align="center">
+  <img src="./assets/main.png" alt="Main Dashboard Screenshot" width="750"/>
+</p>
+
+### 🧠 MySQL Database Schema
+<p align="center">
+  <img src="./assets/mysql.png" alt="MySQL Structure" width="600"/>
+</p>
+
+### 📊 Match Result Chart
+<p align="center">
+  <img src="./assets/result.png" alt="Match Results Chart" width="750"/>
+</p>
+
+---
+
+## 🚀 How to Run
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/username/TottenhamMatchDashboard.git
+
+# 2. Install dependencies
+npm install
+
+# 3. Set up your MySQL database
+# Import ./db/schema.sql and update your .env file
+
+# 4. Start the server
+node index.js
+
+# 5. Access via browser
+http://localhost:5000
